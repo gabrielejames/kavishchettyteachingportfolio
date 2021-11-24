@@ -1,0 +1,62 @@
+h1 {
+  color: #edf5e1;
+  text-align: center;
+}
+
+p, h2, h6 {
+  color: #edf5e1;
+}
+
+body {
+  color: #05386B;
+}
+
+hr.new {
+  border-top: 1px solid #edf5e1;
+}
+
+#main {
+  background-color: #05386B;
+}
+
+.main-img {
+  border-radius: 50%;
+  width: 30%;
+  height: auto;
+  display: block;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.header {
+  margin-top: 80px;
+}
+
+.nav ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+.bio {
+  padding: 2%;
+  background-color: #05386B;
+  margin: 20px;
+}
+
+.row {
+  padding: 2%;
+}
+
+a:link {
+  text-decoration: none;
+  color: inherit;
+}
+
+#projects a {
+  color: #f5a6b3;
+}
+
+h6 {
+  color: #f5a6b3;
+}
+/*# sourceMappingURL=styles.css.map */
